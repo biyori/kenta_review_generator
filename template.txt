@@ -1,0 +1,11 @@
+[Overall]
+[name_of_restaurant] is a [style] restaurant located in [city_state]. It is located in [area]. This restaurant's overall rating is positive and more than [xx%] of the reviewers rated [name_of_restaurant] with [x_stars] stars or more.[overall_extra]
+
+[Food]
+The main draw to the [name_of_restaurant] is its [draw]. Most things on the menu are in the [$xx-$xx] price range. Most reviewers say that the popular dishes are the [dish1], and the [dish2].[food_extra]
+
+[Atmosphere]
+As for attire it's a very [attire] place and [children] for children. There [alcohol] alcohol served here, and there [waiter] waiter service. Reviewers also noted that there [outdoor] outdoor seating, and [wi-fi] wi-fi provided.[atmosphere_extra]
+
+[Service]
+Some of the reviewers suggested that the service can be a bit slow. However, most reviewers praised the hospitality of the staff at the [name_of_restaurant]. Many reviewers described the staff as very accommodating and very kind. [name_of_restaurant] takes all common forms of payment including credit cards and cash.[service_extra]
